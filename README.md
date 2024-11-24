@@ -34,7 +34,7 @@ Este é o arquivo HTML da aplicação, que contém o campo de entrada de número
 
 Veja abaixo a imagem de exemplo da aplicação em funcionamento:
 
-![Imagem de Exemplo](/assets/tela.png)
+![Imagem de Exemplo](assets/tela.png)
 
 
 ## Desenvolvido por
