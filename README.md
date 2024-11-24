@@ -28,6 +28,10 @@ Este arquivo contém os estilos básicos para a página, como cores, alinhamento
 
 ### Arquivo `index.html`
 
-Este é o arquivo HTML da aplicação, que contém o campo de entrada de número, o botão para gerar a tabuada e a lista suspensa onde os resultados são exibidos.
 
+## Imagem de Exemplo
+
+Veja abaixo a imagem de exemplo da aplicação em funcionamento:
+
+![Imagem de Exemplo](assets/tela.png)
 
